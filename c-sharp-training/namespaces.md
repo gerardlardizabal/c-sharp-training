@@ -1,6 +1,3 @@
-# Understanding Namespaces
-by [Brendan Enrick](http://deviq.com/me/brendan-enrick)
-
 ## What Namespaces Are
 
 In C#, a `namespace` is a scope in which developers organize their code, and you've been using them throughout the previous lessons.

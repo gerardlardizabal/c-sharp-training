@@ -1,6 +1,3 @@
-# Learning About Built-In Types and Variables
-by [Steve Smith](http://deviq.com/me/steve-smith)
-
 ## Adding Variables
 
 In this lesson, you'll create a simple Hello World program, and then you'll learn how you can customize the behavior of the program by adding variables to it.

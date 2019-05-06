@@ -1,6 +1,3 @@
-# Troubleshooting
-by [Steve Smith](http://deviq.com/me/steve-smith)
-
 ## Common Errors
 
 In software development, attention to detail is critical. Small mistakes can cause an otherwise correct program to fail to build, much less run. The rules of a programming language like: the keywords it uses, the order in which they can appear, whether or not they're case sensitive, and how to define scopes and statements are collectively referred to as the language's *syntax*. Syntax errors are usually caught when you build the program, and will result in errors that you'll need to understand in order to correct. To demonstrate some of these errors, so you will know how to address them when you see them in later programs you write, you can intentionally introduce problems in your *Program.cs* file.

@@ -1,6 +1,3 @@
-# Creating a Hello World Program
-by [Steve Smith](http://deviq.com/me/steve-smith)
-
 ## The Hello World Project
 
 In this lesson, you're going to learn about the different parts of a very simple program that displays the message, "Hello World!" You'll also learn what happens when you build and run the application, and you'll learn about some common errors you may encounter and how to correct them.

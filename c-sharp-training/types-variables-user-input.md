@@ -1,6 +1,3 @@
-# Learning About Built-In Types and Variables
-by [Steve Smith](http://deviq.com/me/steve-smith)
-
 #### Sample Files
 Download a ZIP containing this tutorial's sample files:
 - [Initial Version] - Use this as a starting point when following along with the tutorial yourself

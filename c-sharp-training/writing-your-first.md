@@ -1,6 +1,3 @@
-# Writing Your First C# Program
-by [Steve Smith](http://deviq.com/me/steve-smith)
-
 ## Getting and Installing .NET
 
 If you haven't already installed .NET, you'll need to do so. .NET runs on Windows, Linux, and Mac and can be used to build apps on mobile platforms including iOS and Android. To get started, navigate to http://dot.net and download the appropriate .NET Core SDK Installer for your system.

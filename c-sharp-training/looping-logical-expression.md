@@ -1,6 +1,3 @@
-# Looping Based on a Logical Expression
-by [Steve Smith](http://deviq.com/me/steve-smith)
-
 ## Expression-Based Loops
 
 You can execute the same statement multiple times in your program by using a *loop*. There are several different kinds of loops in C#. In this lession, you're going to learn about the *while loop*, which is created with the ``while`` keyword. A ``while`` loop in C# looks identical to an ``if`` statement, except that instead of executing the contents of the associated block just once, the ``while`` loop will execute them again and again as long as the logical expression associated with the loop evaluates to ``true``.

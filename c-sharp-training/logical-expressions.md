@@ -1,6 +1,3 @@
-# Implementing Logical Expressions
-by [Steve Smith](http://deviq.com/me/steve-smith)
-
 ## Logical Operators
 
 Logical *expressions* are composed of *operators* and *operands*. You can define your own operators in C#, but that's a more advanced topic. C# provides many built-in operators that you can use to create logical expressions, which are useful when implementing conditional statements, as you saw in the [previous lesson](making-decisions). Logical expressions evaluate to ``true`` or ``false``, and as such they are often called ``boolean`` expressions, since they are evaluated as ``bool`` types (and can be assigned to boolean variables).

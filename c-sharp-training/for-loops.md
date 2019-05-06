@@ -1,6 +1,3 @@
-# Looping a Known Number of Times
-by [Brendan Enrick](http://deviq.com/me/brendan-enrick)
-
 ## For Loops
 
 When you know the number of times you want to execute the code inside of your loop, or it is easily calculated, the ``for`` loop in C# is often the best available option. It looks and works like the ``while`` loop you used in the [previous lesson](looping-logical-expression), however, it has some additional features that you'll use in this lesson. For the simple case of looping over an operation a known-in-advance number of times, the ``for`` loop is the preferred loop.

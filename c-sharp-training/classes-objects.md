@@ -1,6 +1,3 @@
-# Understanding Classes and Objects
-by [Steve Smith](http://deviq.com/me/steve-smith)
-
 ## Classes in C# 
 
 As you've already learned, C# depends heavily on types. It's known as a *strongly-typed* language, because it enforces type definitions and constraints. So, for instance, if a method has a parameter of type ``string``, you can't just pass it a variable (or literal) defined as an ``int``. C# will generate a compile error. The types you work with, both the built-in ones and your own custom types that you'll create, are defined (usually) by *classes*. 

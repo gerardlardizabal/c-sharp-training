@@ -1,6 +1,3 @@
-# Testing Your Code
-by [Eric Fleming](http://deviq.com/me/eric-fleming)
-
 ## Unit Testing Your Code
 
 Testing the code you write is one of the most important and underappreciated practices in programming. There are integration tests, web tests, performance/load tests, and, the one covered in this lesson, unit tests. 
