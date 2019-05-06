@@ -19,7 +19,7 @@ This tutorial will cover the following topics:
 - [Understanding Namespaces](namespaces.md)
 - [Introducing LINQ](linq.md)
 - [When and How to use Exceptions](exceptions.md)
-- [Testing Your Code](testing.md)
+- [Testing Your Code](testing.md) *Optional*
 - [Common Patterns and Antipatterns](patterns-antipatterns.md)
 
 <!-- [Installing .NET and Tools](writing-your-first.md) -->
